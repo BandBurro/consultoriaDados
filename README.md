@@ -49,6 +49,3 @@ O projeto tem como objetivo:
   - DBT (futuro)
 
 ---
-
-## 📂 **Estrutura do Repositório**
-
