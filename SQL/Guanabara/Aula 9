@@ -1,0 +1,2 @@
+select * from pessoas
+where nome like 'A%' or nome like 'B%'
